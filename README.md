@@ -1,2 +1,2 @@
 # Technical-Writing
-My technical writing sample to be shared with employers seeking my services
+My technical writing samples to be shared with employers seeking my services
